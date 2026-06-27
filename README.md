@@ -16,10 +16,10 @@
 
 ```bash
 $ cat profile.txt
-Name        : Oyieri Jermaine Obed (Otto)
-Role        : BSc Informatics & Computer Science, Strathmore University
-Background  : Research Officer @ KNBS (economic surveys + web scraping)
-Focus       : Distributed Systems · IoT/Embedded · ML · Simulation
+Name        : Oyieri Jermaine Obed Otto
+Role        : BSc Informatics & Computer Science
+Background  : Junior Front-end Developer
+Focus       : Cybersecurity · Web Dev · ML · Software Dev
 Status      : Final-year, building a portfolio that doesn't look like
               everyone else's todo-list app
 ```
