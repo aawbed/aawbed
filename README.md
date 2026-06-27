@@ -18,7 +18,7 @@
 $ cat profile.txt
 Name        : Oyieri Jermaine Obed (Otto)
 Role        : BSc Informatics & Computer Science, Strathmore University
-Background  : Research Officer @ KNBS (economic surveys + web scraping)
+Background  : Front-end Developer
 Focus       : Distributed Systems · IoT/Embedded · ML · Simulation
 Status      : Final-year, building a portfolio that doesn't look like
               everyone else's todo-list app
