@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=200&section=header&text=OTTO%20//%20AAWBED&fontSize=50&fontColor=0d1117&fontAlignY=38&desc=Final-Year%20Informatics%20and%20CS%20-%20Strathmore%20University&descAlignY=58&descColor=0d1117&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=200&section=header&text=JERMAINE%20//%20AAWBED&fontSize=50&fontColor=0d1117&fontAlignY=38&desc=Final-Year%20Informatics%20and%20CS%20-%20Strathmore%20University&descAlignY=58&descColor=0d1117&animation=fadeIn" />
 
 <a href="https://github.com/aawbed">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=600&lines=Building+things+that+talk+to+sensors...;IoT+%2B+ML+%2B+whatever+breaks+next;Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA;Currently%3A+shipping+Earthpulse+%26+an+IELTS+AI+tutor" />
