@@ -15,7 +15,7 @@
 ### `~/whoami`
 
 ```bash
-$ cat profile.txt
+$  profile.txt
 Name        : Oyieri Jermaine Obed Otto
 Role        : BSc Informatics & Computer Science
 Background  : Junior Front-end Developer
