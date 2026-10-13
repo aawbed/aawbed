@@ -20,6 +20,7 @@ Name        : Jermaine Obed Oyieri
 Location    : Nairobi, Kenya 🇰🇪
 Email       : jermain3obed@gmail.com
 Portfolio   : https://aawbed.github.io
+Experience  : Research Assistant @ KNBS · Attachment @ Swaminarayan Hospital
 Verified    : Cisco IT Essentials | AWS Cloud Foundations
 Education   : Strathmore University (Graduating Aug 2027)
               Pioneer Boys School, Maragua (2019 - 2022)
