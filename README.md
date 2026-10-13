@@ -16,7 +16,7 @@
 
 ```bash
 $  profile.txt
-Name        : Jermaine Otto Oyieri
+Name        : Jermaine Obed Oyieri
 Location    : Nairobi, Kenya 🇰🇪
 Email       : jermain3obed@gmail.com
 Portfolio   : https://aawbed.github.io
