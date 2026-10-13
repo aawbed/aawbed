@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=200&section=header&text=JERMAINE%20//%20AAWBED&fontSize=50&fontColor=0d1117&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Intelligent%20Systems&descAlignY=58&descColor=0d1117&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=200&section=header&text=JERMAINE%20//%20AAWBED&fontSize=50&fontColor=0d1117&fontAlignY=38&desc=Software%20Engineer%20%7C%20Practical%20Systems%20%26%20Web%20Solutions&descAlignY=58&descColor=0d1117&animation=fadeIn" />
 
 <a href="https://github.com/aawbed">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=600&lines=Software+Engineer+%C2%B7+Full-Stack+Developer;Building+robust+web+platforms+%26+ML+systems;Python+%2B+Django+%2B+React+%2B+TypeScript+%2B+SQL;Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA;Currently%3A+Shipping+production-ready+software"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=600&lines=Building+practical+software+%26+web+tools;Python+%2B+Django+%2B+MySQL+%2B+JavaScript;Cisco+IT+Essentials+%26+AWS+Certified;Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA;Currently%3A+Shipping+systems+that+work"/>
 </a>
 
 </div>
@@ -16,14 +16,17 @@
 
 ```bash
 $  profile.txt
-Name        : Jermaine Obed (Otto)
-Role        : Software Engineer / Full-Stack Developer
-Specialties : Full-Stack Web Applications · Applied Machine Learning · System Design
-Stack       : Python (Django) · JavaScript / TypeScript (React) · SQL (MySQL / Postgres)
-Status      : Building scalable products & open to software engineering opportunities
+Name        : Jermaine Otto Oyieri
+Location    : Nairobi, Kenya 🇰🇪
+Email       : jermain3obed@gmail.com
+Portfolio   : https://aawbed.github.io
+Verified    : Cisco IT Essentials | AWS Cloud Foundations
+Education   : Strathmore University (Graduating Aug 2027)
+              Pioneer Boys School, Maragua (2019 - 2022)
+Hobbies     : Writing poems · Hiking outdoors · Playing football
 ```
 
-I design and build end-to-end software systems — from database architecture and applied machine learning pipelines to responsive, intuitive web applications. I care about systems that solve real operational challenges, maintainable codebases, and shipping software that delivers real-world impact.
+I build reliable web applications, manage databases, troubleshoot computer networks, and work with IoT sensors. I focus on writing clean, maintainable code and building practical software that solves real-world tasks.
 
 <br clear="right">
 
@@ -36,39 +39,33 @@ I design and build end-to-end software systems — from database architecture an
 <td width="50%" valign="top">
 
 **✈️ KQ Sales & Order Intelligence System**
-Enterprise ML-driven sales and order management platform built around Kenya Airways operational workflows.
-- SARIMAX time-series demand forecasting with 85% confidence intervals
-- Isolation Forest anomaly detection & K-Means RFM customer segmentation
-- Role-based access control (RBAC), Django REST, MySQL & ReportLab PDF reporting
+Web-based sales and inventory management platform modeled on Kenya Airways operational workflows.
+- 4 user roles (Sales Agents, Warehouse Officers, Managers, Admins)
+- Automated 16% VAT invoicing and one-click PDF/CSV reports
+- SARIMAX time-series forecasting & anomaly detection for bulk order spikes
 <br>📂 [`view repository`](https://github.com/aawbed/kq-sales-order-intelligence)
 
 </td>
 <td width="50%" valign="top">
 
-**🌍 Earthpulse**
-Environmental and earth-data monitoring platform featuring interactive data visualizations and serverless API integration.
-- Fast, responsive data parsing and analytics
-- Serverless architecture deployed on Vercel
-<br>📂 [`view repository`](https://github.com/aawbed/earth-pulse) · 🔗 [`live demo`](https://earth-pulse-delta.vercel.app)
+**🗣️ IELTS AI Prep & Tutor Platform**
+Interactive web platform to help students practice for IELTS exams with automated model-driven feedback on speaking and writing tests.
+<br>*(active project under progress)*
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**⚡ Interactive Terminal Portfolio**
-Terminal-themed personal developer portfolio with interactive CLI command interpreter, retro CRT styling, and project showcases.
-- Custom command parser (`help`, `about`, `projects`, `skills`, `contact`)
-- Zero-dependency vanilla JS & mobile-responsive CSS
-<br>📂 [`view project`](https://github.com/aawbed/interactive-portfolio-166588) · 🔗 [`live demo`](https://is-project-2026.github.io/interactive-portfolio-166588/)
+**🌍 Earthpulse**
+Live environmental and climate monitoring web application with responsive charts and serverless APIs.
+<br>📂 [`view repository`](https://github.com/aawbed/earth-pulse) · 🔗 [`live demo`](https://earth-pulse-delta.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
 **🌾 Shamba Sense**
-IoT agricultural telemetry system streaming real-time sensor metrics (soil moisture, temperature, humidity) from ESP32 microcontrollers to an operational dashboard.
-- Real-time telemetry ingestion and alert triggers
-- Engineered for East African agricultural contexts
+IoT farm monitoring system streaming live soil moisture, ambient humidity, and temperature data from ESP32 edge microcontrollers.
 <br>📂 [`view projects`](https://github.com/aawbed)
 
 </td>
@@ -83,13 +80,11 @@ IoT agricultural telemetry system streaming real-time sensor metrics (soil moist
 
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9d)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff9d)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00ff9d)
 ![Django](https://img.shields.io/badge/-Django-0d1117?style=for-the-badge&logo=django&logoColor=00ff9d)
-![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=00ff9d)
-![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00ff9d)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00ff9d)
 ![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff9d)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff9d)
+![Cisco](https://img.shields.io/badge/-Cisco%20IT%20Essentials-0d1117?style=for-the-badge&logo=cisco&logoColor=00ff9d)
+![AWS](https://img.shields.io/badge/-AWS%20Academy%20Cloud-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=00ff9d)
 ![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff9d)
 
 </div>
@@ -125,8 +120,10 @@ IoT agricultural telemetry system streaming real-time sensor metrics (soil moist
 
 ### `~/connect`
 
+[![Portfolio](https://img.shields.io/badge/-Live%20Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff9d)](https://aawbed.github.io)
 [![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9d)](https://github.com/aawbed)
-[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9d)](mailto:jermaineobed.oyieri@strathmore.edu)
+[![Credly](https://img.shields.io/badge/-Credly%20Badges-0d1117?style=for-the-badge&logo=credly&logoColor=00ff9d)](https://www.credly.com/users/jermaine-obed)
+[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9d)](mailto:jermain3obed@gmail.com)
 
 <br>
 
